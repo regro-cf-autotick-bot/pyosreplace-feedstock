@@ -3,7 +3,7 @@ About pyosreplace
 
 Home: https://bitbucket.org/tiran/pyosreplace
 
-Package license: PSF 2
+Package license: PSF-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyosreplace-feedstock/blob/master/LICENSE.txt)
 
